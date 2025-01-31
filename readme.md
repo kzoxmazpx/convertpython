@@ -12,5 +12,5 @@ pip install -r requirements.txt
 
 2. **Clonage du projet**
    ```bash
-   git clone https://github.com/kzoxmazpx/convertpython.git
+   git clone https://github.com/kzoxofficiel/convertpython.git
    cd convertpython
